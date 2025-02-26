@@ -1,0 +1,23 @@
+{
+  "description": "Personal developer site",
+  "repo": "https://github.com/is-a-dev/docs",
+  "owner": {
+    "username": "shaigutfreund",
+    "email": "20507765+shaigutfreund@users.noreply.github.com"
+  },
+  "record": {
+    "CNAME": "shaigutfreund.github.io"
+  },
+  "CAA": [
+    {
+      "flags": 0,
+      "tag": "issue",
+      "value": "letsencrypt.org"
+    },
+    {
+      "flags": 0,
+      "tag": "iodef",
+      "value": "mailto:20507765+shaigutfreund@users.noreply.github.com"
+    }
+  ]
+}
