@@ -5,6 +5,9 @@
     "email": "20507765+shaigutfreund@users.noreply.github.com"
   },
   "record": {
+    "TXT": [
+        "zoho-verification=zb07971524.zmverify.zoho.com"
+      ],
     "CNAME": "shai.pages.dev"
   },
   "CAA": [
